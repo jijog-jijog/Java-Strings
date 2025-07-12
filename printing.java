@@ -7,6 +7,9 @@ public class printing {
         
         System.out.println(new Integer(50) +""+ new ArrayList<>());
 
-        System.out.println(new Integer(50) +""+ new Integer(50));
+      
+
+        int val = new Integer(50) + new Integer(50);
+          System.out.println(val);
     }
 }
